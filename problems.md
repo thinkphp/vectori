@@ -3,8 +3,8 @@
 ## #1
 Coordonatele a N puncte in planul cartezian sunt
 memorate in doi vectori:
-A - vectorul absciselor
-N - vectorul ordonatelor
+Abs - vectorul absciselor
+Ord - vectorul ordonatelor
 Output: Sa se determine in plan segmentul de lungime maxima.
 De precizat ca se cere o singura solutie, daca sunt mai multe
 segmente de lungime maxima.
