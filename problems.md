@@ -56,3 +56,21 @@ V = [10,20,30,100,40,50]
 Sa se introduca intr-un vector V cu N elemente intregi, dupa fiecare element par, un element cu valoarea 0.
 N = 5, V = [2,3,4,7,8]
 Output -> V = [2,0,3,4,0,7,8,0]
+
+## #5
+Sa se elimine dintr-un vector V cu N elemente intregi toate elementele pare , stiind ca vectorul are cel putin un element impar.
+
+Input -> N = 6, V = [1,2,3,4,5,6,7]
+Output -> V = [1,3,5,7]
+
+## #6
+Se citeste un vector V cu N elemente intregi. Sa se mute primul element la sfarsitul vectorului.
+
+Input -> N = 4, V = [10,20,30,40]
+Output -> V = [20,30,40,10]
+
+## #7
+Se citeste un vector V cu N elemente intregi. Sa se mute ultimul element la inceputul vectorului.
+
+Input -> N = 4, V = [10,20,30,40]
+Output -> V = [40,10,20,30]
