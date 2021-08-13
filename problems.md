@@ -51,3 +51,8 @@ p = 3
 Output -> 
 Intrucat primul element al vectorului este retinut de V[0], noul vector va fi:
 V = [10,20,30,100,40,50]
+
+## #4
+Sa se introduca intr-un vector V cu N elemente intregi, dupa fiecare element par, un element cu valoarea 0.
+N = 5, V = [2,3,4,7,8]
+Output -> V = [2,0,3,4,0,7,8,0]
