@@ -74,3 +74,13 @@ Se citeste un vector V cu N elemente intregi. Sa se mute ultimul element la ince
 
 Input -> N = 4, V = [10,20,30,40]
 Output -> V = [40,10,20,30]
+
+## #8
+
+Se citesc n numere naturale nenule. Sa se determine in cate zerouri se termina produsul
+lor fara a efectua operatia de inmultire.
+
+Exemple:
+
+Input -> n = 5; V = [4,50,48,72,25]
+Output -> se termina in 4 zerouri.
