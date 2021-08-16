@@ -14,15 +14,15 @@ Introduceti numarul de puncte -> 3
 
 Introduceti coordonatele punctelor ->
 
-Absisa punctului 0 -> 1
+Abscisa punctului 0 -> 1
 
 Ordonata punctului 0 -> 3
 
-Absisa punctului 1 -> -1
+Abscisa punctului 1 -> -1
 
 Ordonata punctului 1 -> 1
 
-Absisa punctului 2 -> 2
+Abscisa punctului 2 -> 2
 
 Ordonata punctului 2 -> -4
 
