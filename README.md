@@ -2,6 +2,8 @@
 
 https://github.com/thinkphp/vectors/blob/master/problems.md
 
+[solved] https://ideone.com/thinkphp/vectors
+
 
 ## Some demos:
 
