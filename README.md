@@ -1,5 +1,7 @@
 # Archive of problems
 
+https://github.com/thinkphp/vectors/blob/master/problems.md
+
 
 ## Some demos:
 
