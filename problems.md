@@ -90,8 +90,27 @@ Se citeste un numar natural n. Sa se verifice daca numarul n are acelasi numar d
 
 Exemple:
 input -> n = 213213 
+
 Output -> are cate doua cifre de 1, doua cifre de 2 si 2 cifre de 3 YES
+
 input -> n = 1232
+
 Output -> are doua cifre de 2, o cifra de 1 si o cifra de 3, nu indeplineste conditia din cerinta, NO
+
+## #10
+Sa se verifice daca un vector este ordonat crescator sau descrescator
+
+Input -> n = 5, V = [1,2,2,4,5] 
+
+Output -> YES, Ordonat crescator.
+
+Input -> n = 5, V = [5,4,3,2,1] 
+
+Output -> YES, Ordonat descrescator.
+
+Input -> n = 5, V = [1,2,-1,4,5] 
+
+Output -> No, neordonat.
+
 
 
