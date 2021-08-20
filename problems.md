@@ -112,5 +112,19 @@ Input -> n = 5, V = [1,2,-1,4,5]
 
 Output -> No, neordonat.
 
+## #11
+Sa se verifice daca un vector este de tip depresiune, adica daca de la prima pozitie pana la o pozitie p oarecare este ordonat strict descrescator, iar
+de la pozitia p + 1 pana la sfarsitul vectorului este ordonat strict crescator
+
+Input -> n = 5, V = [3,2,1,2,3] -> Depresiune
+Input -> n = 5, V = [3,2,2,1,3] -> Nu e depresiune!
+
+## #12
+Sa se verifice daca un vector este de tip munte, adica daca de la prima pozitie pana la o pozitie p oarecare este ordonat strict crescator, iar
+de la pozitia p + 1 pana la sfarsitul vectorului este ordonat strict descrescator.
+
+Input -> n = 5, V = [1,2,3,2,1] -> mountain.
+Input -> n = 5, V = [1,2,3,4,5] -> not mountain.
+
 
 
