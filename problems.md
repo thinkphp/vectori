@@ -84,3 +84,14 @@ Exemple:
 
 Input -> n = 5; V = [4,50,48,72,25]
 Output -> se termina in 4 zerouri.
+
+## #9
+Se citeste un numar natural n. Sa se verifice daca numarul n are acelasi numar de cifre de acelasi tip.
+
+Exemple:
+input -> n = 213213 
+Output -> are cate doua cifre de 1, doua cifre de 2 si 2 cifre de 3 YES
+input -> n = 1232
+Output -> are doua cifre de 2, o cifra de 1 si o cifra de 3, nu indeplineste conditia din cerinta, NO
+
+
