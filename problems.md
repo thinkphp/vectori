@@ -140,6 +140,7 @@ Sa se verifice daca componentele unui vector cu n elemente intregi n apartine lu
 aritmentica daca oricare ar fi k apartine lui {1,2,3, ..., n - 1} avem ak+1 = nk + r, unde r se numeste ratia progresiei si este un numar constant.
 
 Input -> n = 6, V = [2,4,6,8,10,12] este progresie aritmetica cu ratia r = 2
+
 Input -> n = 6, V = [1,3,6,8,11,13] nu este progresie aritmetica
 
 
