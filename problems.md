@@ -128,5 +128,19 @@ Input -> n = 5, V = [1,2,3,2,1] -> mountain.
 
 Input -> n = 5, V = [1,2,3,4,5] -> not mountain.
 
+## #13
+Se citeste un vector cu n elemente numere intregi, n <= 10. Sa se formeze numarul minim folosind cifra minima a fiecarui numar din vectorul initial.
+
+Input -> n = 6, V = [123, 400, 503, 284, 99, 567]
+
+Output -> cifrele minime sunt: [1,0,0,2,9,5] -> 100259
+
+## 14.
+Sa se verifice daca componentele unui vector cu n elemente intregi n apartine lui N*, reprezinta o progresie aritmetica. Un sir a1, a2, a3,..., an este progresie
+aritmentica daca oricare ar fi k apartine lui {1,2,3, ..., n - 1} avem ak+1 = nk + r, unde r se numeste ratia progresiei si este un numar constant.
+
+Input -> n = 6, V = [2,4,6,8,10,12] este progresie aritmetica cu ratia r = 2
+Input -> n = 6, V = [1,3,6,8,11,13] nu este progresie aritmetica
+
 
 
