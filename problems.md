@@ -143,5 +143,9 @@ Input -> n = 6, V = [2,4,6,8,10,12] este progresie aritmetica cu ratia r = 2
 
 Input -> n = 6, V = [1,3,6,8,11,13] nu este progresie aritmetica
 
+## 15.
+
+## 16.
+
 
 
