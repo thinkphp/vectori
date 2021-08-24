@@ -145,7 +145,16 @@ Input -> n = 6, V = [1,3,6,8,11,13] nu este progresie aritmetica
 
 ## 15.
 
+Se considera un tablou unidimensional ce contine n caractere distincte. Sa se afiseze permutarea circulara a lui, care incepe cu cel mai mic caracter in sens lexicografic.
+
+    input   -> n = 5, v = ['c','d','a','m','z']
+
+    Output  -> v = ['a', 'm', 'z', 'c', 'd']
+
 ## 16.
 
+Fie un tablou unidimensional care contine n valori intregi distincte. Realizati un program care ordoneaza crescator elementele vectorului folosind "algoritmul de numarare".
 
+Hint:  Consideram vector A. Algoritmul de sortare prin numarare consta in gasirea pentru fiecare element A(i), a numarului de elemente din vector mai mici ca el. Numerele obtinute sunt memorate in alt vector. Elementele vectorului A vor fi initial salvate in vectorul auxiliar C. La finalul algoritmului se vor
+rescrie in ordine crescatoare elementele vectorului A pe baza valorilor memorate in B si C.
 
