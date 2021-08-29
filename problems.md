@@ -158,3 +158,13 @@ Fie un tablou unidimensional care contine n valori intregi distincte. Realizati 
 Hint:  Consideram vector A. Algoritmul de sortare prin numarare consta in gasirea pentru fiecare element A(i), a numarului de elemente din vector mai mici ca el. Numerele obtinute sunt memorate in alt vector. Elementele vectorului A vor fi initial salvate in vectorul auxiliar C. La finalul algoritmului se vor
 rescrie in ordine crescatoare elementele vectorului A pe baza valorilor memorate in B si C.
 
+## 17.
+
+Turnuri in zig-zag. Un copil are n turnuri de inaltimi diferite (numere naturale). El vrea sa construiasca un zid cu toate turnurile asezandu-le unul langa altul astfel incat turnurile ce ocupa pozitii pare in zid sa fie mai inalte decat turnurile vecine. Descoperiti un algoritm cu ajutorul caruia copilul sa poata construi sirul.
+
+          n = 7
+
+          Input-> 1 7 2 6 4 3 5
+          
+          Output-> 1 5 2 6 3 7 4
+
