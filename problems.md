@@ -167,7 +167,8 @@ Turnuri in zig-zag. Un copil are n turnuri de inaltimi diferite (numere naturale
           Input-> 1 7 2 6 4 3 5
           
           Output-> 1 5 2 6 3 7 4
-## 18.
+          
+## 18. https://ideone.com/zXuCwI
 
 Se citesc doua siruri de numere intregi, fiecare sir citindu-se pana la
 intalnirea numarului 0 (numarul zero nu face parte din sir). Sa se verifice
