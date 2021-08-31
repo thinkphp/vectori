@@ -167,4 +167,23 @@ Turnuri in zig-zag. Un copil are n turnuri de inaltimi diferite (numere naturale
           Input-> 1 7 2 6 4 3 5
           
           Output-> 1 5 2 6 3 7 4
+## 18.
+
+Se citesc doua siruri de numere intregi, fiecare sir citindu-se pana la
+intalnirea numarului 0 (numarul zero nu face parte din sir). Sa se verifice
+daca cele doua siruri formeaza doua multimi de numere direct proportionale sau
+invers proportionale.
+Hint:
+Elementele celor doua siruri le memoram in doi vectori notati cu A si B.
+Daca cei doi vectori au numar diferit de elemente atunci nu se poate
+vorbi despre proportionalitate. Trebuie sa formam perechi cu Elementele
+celor doi vectori (o pereche fiind formata dintr-un element al vectorului A si
+un element al vectorului B) astfel incat rapoartele (in cazul proportionalitatii
+directe) si produsele (in cazul proportionalitatii inverse) perechilor sa fie egale.
+Pentru aceasta ordonam elementele celor doi vectori in ordine crescatoare. In
+cazul proportionalitatii directe o pereche este formata din elementele situate
+pe aceeasi pozitie in cei doi vectori. In cazul proportionalitatii inverse se grupeaza
+primul element din vectorul A cu ultimul element din vectorul B, al doilea element
+din vectorul A cu penultimul element din vectorul B, etc...
+
 
