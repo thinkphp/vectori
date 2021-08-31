@@ -207,6 +207,7 @@ Example:
 
 Input:
      8
+     
      16 7 63  1 5 9 14 
      
 Output:
