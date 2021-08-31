@@ -187,4 +187,24 @@ pe aceeasi pozitie in cei doi vectori. In cazul proportionalitatii inverse se gr
 primul element din vectorul A cu ultimul element din vectorul B, al doilea element
 din vectorul A cu penultimul element din vectorul B, etc...
 
+## 19.
+
+Se dă un vector cu n elemente, numere naturale. Afișați în ordine descrescătoare valorile din vector care sunt prime cu ultimul element al vectorului.
+  
+  Input: 
+  Programul citește de la tastatură numărul n, iar apoi n numere naturale, reprezentând elementele vectorului
+  Output:
+  Programul va afișa pe ecran valorile cerute, în ordine descrescătoare, separate prin exact un spațiu.
+  
+  Restrictii si precizari:
+    
+   - 1 <= n <= 1000
+   - cele n numere citite vor fi mai mici decât 1.000.000.000
+Example:
+Input:
+     8
+     16 7 63  1 5 9 14 
+     
+Output:
+     9 5 3 1
 
