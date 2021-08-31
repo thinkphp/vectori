@@ -187,7 +187,7 @@ pe aceeasi pozitie in cei doi vectori. In cazul proportionalitatii inverse se gr
 primul element din vectorul A cu ultimul element din vectorul B, al doilea element
 din vectorul A cu penultimul element din vectorul B, etc...
 
-## 19.
+## 19. https://ideone.com/6Bl5DT
 
 Se dă un vector cu n elemente, numere naturale. Afișați în ordine descrescătoare valorile din vector care sunt prime cu ultimul element al vectorului.
   
