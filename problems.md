@@ -199,8 +199,12 @@ Se dă un vector cu n elemente, numere naturale. Afișați în ordine descrescă
   Restrictii si precizari:
     
    - 1 <= n <= 1000
+   
    - cele n numere citite vor fi mai mici decât 1.000.000.000
+   
 Example:
+
+
 Input:
      8
      16 7 63  1 5 9 14 
