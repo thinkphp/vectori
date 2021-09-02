@@ -230,8 +230,11 @@ Output:
 afla raspunsul pentru al i-lea test, sau -1 in cazul in care nu exista solutie.
 
 Restrictii:
+
 T = 5
+
 1 ≤ P ≤ 5 * 106
+
 1 ≤ N ≤ P - 1
 
 Example:
