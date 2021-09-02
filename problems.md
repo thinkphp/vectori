@@ -213,7 +213,7 @@ Input:
 Output:
      9 5 3 1
 
-## 20. 
+## 20. https://ideone.com/BVtXpi
 
 Deoarece se apropie Craciunul cu pasi repezi, Petrica vrea sa fie mai bun.
 Lui ii plac problemele cu limita de timp mare asa ca el vrea sa gaseasca cel
