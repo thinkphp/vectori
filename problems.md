@@ -213,3 +213,46 @@ Input:
 Output:
      9 5 3 1
 
+## 20. 
+
+Deoarece se apropie Craciunul cu pasi repezi, Petrica vrea sa fie mai bun.
+Lui ii plac problemele cu limita de timp mare asa ca el vrea sa gaseasca cel
+mai mic numar format doar cu cifrele 2, 3, 5 si 7 care da restul N la impartirea
+cu P.
+
+Input:
+Fişierul de intrare cifre4.in contine pe prima linie un numar natural T
+ce semnifica numarul de teste. Pe urmatoarele T linii se afla cate doua
+numere naturale N si P, cu semnificatia din enunt.
+
+Output:
+În fişierul de ieşire cifre4.out se vor afla T linii, pe linia i se va
+afla raspunsul pentru al i-lea test, sau -1 in cazul in care nu exista solutie.
+
+Restrictii:
+T = 5
+1 ≤ P ≤ 5 * 106
+1 ≤ N ≤ P - 1
+
+Example:
+
+Input:
+
+     3
+
+     52 100
+
+     11 100
+
+     51 1123
+
+Output:
+
+    52
+
+    -1
+
+    322352
+
+
+
