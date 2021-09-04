@@ -199,7 +199,7 @@ b) Input -> sir1 = 2 3 6 0 si sir2 = 9 6 18 0
 
 c) Input -> sir1 = 2 5 4 0 si sir2 = 4 10 5 0
 
-   Output-> multimiele sunt invers proportionale.
+   Output-> multimile sunt invers proportionale.
    
 
 ## 19. https://ideone.com/6Bl5DT
