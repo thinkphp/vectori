@@ -151,7 +151,7 @@ Se considera un tablou unidimensional ce contine n caractere distincte. Sa se af
 
     Output  -> v = ['a', 'm', 'z', 'c', 'd']
 
-## 16.
+## 16. https://ideone.com/SgWDrV
 
 Fie un tablou unidimensional care contine n valori intregi distincte. Realizati un program care ordoneaza crescator elementele vectorului folosind "algoritmul de numarare".
 
