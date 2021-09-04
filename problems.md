@@ -257,7 +257,7 @@ Output:
 
     322352
     
-## #21.    
+## #21. https://ideone.com/th0Lso
 
 At school, invatatoarea unei clase aseaza cei n students din clasa
 in urmatoarea ordine: c1, c2, c3, ..., cn unde ci reprezinta inaltimea
