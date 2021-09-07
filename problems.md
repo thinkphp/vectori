@@ -294,5 +294,12 @@ din pozitiile 1,2,3 vad extremitatea stanga a sirului, al patruleaa vede
 ambele extremitati. Elevii din pozitiile 5 si 6 vad extremitatea din dreapta a sirului.
 
 
+## #22. 
+
+Given an array of integers and a value, determine is there are two integers in the array whose sum is equal to the given value. 
+Return True is the sum exists and return False if it does not.
+
+Input: 5 7 1 2 8 4 3 and the value = 10
+Output: True
 
 
