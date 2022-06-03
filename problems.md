@@ -306,3 +306,12 @@ Output: True
 
 Fiind dat vectorul x cu n elemente intregi nenule, sa se afiseze elementele distincte (elementele care se repeta sunt afisate o singura data la prima lor aparitie) in ordinea in care intervin in vector.
 
+## #24. https://ideone.com/KVA9ML (py)
+
+Fiind dat vectorul x cu n elemente intregi, sa se afiseze in ordinea crescatoarea a elementelor componente distincte si frecventa lor de aparitie.
+Input: n = 6 , x = 45, -90, 45, 2, 45, 2
+Output: 
+Elementul -90 apare o data
+Elementul 2 apare de 2 ori
+Elementul 45 apare de 3 ori
+      
