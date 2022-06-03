@@ -302,4 +302,7 @@ Return True is the sum exists and return False if it does not.
 Input: 5 7 1 2 8 4 3 and the value = 10
 Output: True
 
+## #23. 
+
+Fiind dat vectorul x cu n elemente intregi nenule, sa se afiseze elementele distincte (elementele care se repeta sunt afisate o singura data la prima lor aparitie) in ordinea in care intervin in vector.
 
